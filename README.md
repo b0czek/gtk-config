@@ -10,4 +10,5 @@ setsid gnome-shell --replace
 ```
 After the last command, whole GNOME should crash and after relog, everything should be good to go.
 
-![Sample Screenshot of termal](imgs/terminal.png)
+## Sample screenshot of the terminal
+![Sample Screenshot of the terminal](imgs/terminal.png)
